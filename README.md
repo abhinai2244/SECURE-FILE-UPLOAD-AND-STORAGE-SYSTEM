@@ -48,5 +48,5 @@ This project leverages object-oriented programming (OOP) concepts in **Python** 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/abhinai2244/Secure-File-Upload-and-Storage.git
+   git clone https://github.com/abhinai2244/SECURE-FILE-UPLOAD-AND-STORAGE-SYSTEM
    cd Secure-File-Upload-and-Storage
